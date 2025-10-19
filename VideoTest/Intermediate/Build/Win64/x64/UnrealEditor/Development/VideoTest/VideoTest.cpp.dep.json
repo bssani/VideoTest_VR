@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\unrealengineproject\\videotest\\source\\videotest\\videotest.cpp",
+        "Source": "c:\\unrealengineproject\\videotest_vr\\videotest\\source\\videotest\\videotest.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\x64\\videotesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "c:\\unrealengineproject\\videotest_vr\\videotest\\intermediate\\build\\win64\\x64\\videotesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\videotest\\definitions.videotest.h",
-            "c:\\unrealengineproject\\videotest\\source\\videotest\\videotest.h"
+            "c:\\unrealengineproject\\videotest_vr\\videotest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\videotest\\definitions.videotest.h",
+            "c:\\unrealengineproject\\videotest_vr\\videotest\\source\\videotest\\videotest.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

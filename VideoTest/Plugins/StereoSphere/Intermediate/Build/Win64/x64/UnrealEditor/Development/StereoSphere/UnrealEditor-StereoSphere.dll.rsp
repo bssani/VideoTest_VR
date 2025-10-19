@@ -37,12 +37,10 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NATVIS:"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\RenderCore\RenderCore.natvis"
-"C:\UnrealEngineProject\VideoTest\Intermediate\Build\Win64\x64\VideoTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
-"C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\Module.StereoSphere.cpp.obj"
-"C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\StereoBlend.cpp.obj"
-"C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\StereoSphere.cpp.obj"
-"C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\StereoSphereModule.cpp.obj"
-"C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\Default.rc2.res"
+"C:\UnrealEngineProject\VideoTest_VR\VideoTest\Intermediate\Build\Win64\x64\VideoTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\UnrealEngineProject\VideoTest_VR\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\Module.StereoSphere.cpp.obj"
+"C:\UnrealEngineProject\VideoTest_VR\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\StereoSphere.init.gen.cpp.obj"
+"C:\UnrealEngineProject\VideoTest_VR\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -82,6 +80,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Binaries\Win64\UnrealEditor-StereoSphere.dll"
-/PDB:"C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Binaries\Win64\UnrealEditor-StereoSphere.pdb"
+/OUT:"C:\UnrealEngineProject\VideoTest_VR\VideoTest\Plugins\StereoSphere\Binaries\Win64\UnrealEditor-StereoSphere.dll"
+/PDB:"C:\UnrealEngineProject\VideoTest_VR\VideoTest\Plugins\StereoSphere\Binaries\Win64\UnrealEditor-StereoSphere.pdb"
 /ignore:4078

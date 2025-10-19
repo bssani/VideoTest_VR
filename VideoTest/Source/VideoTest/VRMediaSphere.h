@@ -34,9 +34,9 @@ protected:
     UMediaSoundComponent* MediaSound;
 
     // Runtime-created UObjects (BeginPlay¿¡¼­ NewObject)
-    UPROPERTY() UMediaPlayer* MediaPlayer;
-    UPROPERTY() UMediaTexture* MediaTex;
-    UPROPERTY() UFileMediaSource* FileSource;
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "VRMedia|Media" ) UMediaPlayer* MediaPlayer;
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "VRMedia|Media" ) UMediaTexture* MediaTex;
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "VRMedia|Media" ) UFileMediaSource* FileSource;
 
     // Assets
     UPROPERTY(EditAnywhere, Category = "VRMedia|Mesh")

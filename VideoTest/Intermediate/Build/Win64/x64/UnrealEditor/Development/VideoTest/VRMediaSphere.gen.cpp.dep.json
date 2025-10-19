@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\unrealeditor\\inc\\videotest\\uht\\vrmediasphere.gen.cpp",
+        "Source": "c:\\unrealengineproject\\videotest_vr\\videotest\\intermediate\\build\\win64\\unrealeditor\\inc\\videotest\\uht\\vrmediasphere.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\x64\\videotesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "c:\\unrealengineproject\\videotest_vr\\videotest\\intermediate\\build\\win64\\x64\\videotesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\videotest\\definitions.videotest.h",
-            "c:\\unrealengineproject\\videotest\\source\\videotest\\vrmediasphere.h",
+            "c:\\unrealengineproject\\videotest_vr\\videotest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\videotest\\definitions.videotest.h",
+            "c:\\unrealengineproject\\videotest_vr\\videotest\\source\\videotest\\vrmediasphere.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\mediaassets\\public\\mediaplayer.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\media\\public\\imediaoptions.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\media\\public\\imediametadataitem.h",
@@ -73,7 +73,7 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\mediaassets\\uht\\mediasource.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\mediaassets\\uht\\basemediasource.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\mediaassets\\uht\\filemediasource.generated.h",
-            "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\unrealeditor\\inc\\videotest\\uht\\vrmediasphere.generated.h"
+            "c:\\unrealengineproject\\videotest_vr\\videotest\\intermediate\\build\\win64\\unrealeditor\\inc\\videotest\\uht\\vrmediasphere.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

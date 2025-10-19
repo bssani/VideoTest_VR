@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UnrealEngineProject/VideoTest_VR/VideoTest/Content/VRMedia/Blueprint/BP_VRMediaSphere.uasset",
+				"C:/UnrealEngineProject/VideoTest_VR/VideoTest/Content/VRMedia/Media/FS_Media180.uasset",
+				"C:/UnrealEngineProject/VideoTest_VR/VideoTest/Content/VRMedia/Level/L_VRMedia.umap",
 				"C:/UnrealEngineProject/VideoTest/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
 				"C:/UnrealEngineProject/VideoTest/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
 				"C:/UnrealEngineProject/VideoTest/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/MI/BHS7YK8M37UMRSI0DPRM6B.uasset",

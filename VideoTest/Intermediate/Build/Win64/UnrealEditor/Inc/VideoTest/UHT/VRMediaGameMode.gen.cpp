@@ -78,14 +78,14 @@ AVRMediaGameMode::~AVRMediaGameMode() {}
 // End Class AVRMediaGameMode
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaGameMode_h_Statics
+struct Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaGameMode_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AVRMediaGameMode, AVRMediaGameMode::StaticClass, TEXT("AVRMediaGameMode"), &Z_Registration_Info_UClass_AVRMediaGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AVRMediaGameMode), 3173240516U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaGameMode_h_1514744113(TEXT("/Script/VideoTest"),
-	Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaGameMode_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaGameMode_h_1514744113(TEXT("/Script/VideoTest"),
+	Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaGameMode_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

@@ -320,6 +320,7 @@
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\OutputLog\UHT"
 /I "Developer\OutputLog\Public"
 /I "Runtime\ColorManagement\Public"
+/I "C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\UnrealEditor\Inc\StereoSphere\UHT"
 /I "C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Source"
 /I "C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Source\StereoSphere\Public"
 /I "..\Plugins\MovieScene\MovieRenderPipeline\Intermediate\Build\Win64\UnrealEditor\Inc\MovieRenderPipelineRenderPasses\UHT"

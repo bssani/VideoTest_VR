@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengineproject\\videotest_vr\\videotest\\plugins\\stereosphere\\intermediate\\build\\win64\\unrealeditor\\inc\\stereosphere\\uht\\stereosphere.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengineproject\\videotest_vr\\videotest\\intermediate\\build\\win64\\x64\\videotesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\unrealengineproject\\videotest_vr\\videotest\\plugins\\stereosphere\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\stereosphere\\definitions.stereosphere.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VideoTestModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b41a780ee0b7cf6e77e9c8ad73f49b4cb1bd7446")]
 [assembly: System.Reflection.AssemblyProductAttribute("VideoTestModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VideoTestModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

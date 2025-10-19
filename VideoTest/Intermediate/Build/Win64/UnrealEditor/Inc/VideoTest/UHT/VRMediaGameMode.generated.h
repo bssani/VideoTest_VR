@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VIDEOTEST_VRMediaGameMode_generated_h
 
-#define FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaGameMode_h_9_INCLASS_NO_PURE_DECLS \
+#define FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaGameMode_h_9_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAVRMediaGameMode(); \
 	friend struct Z_Construct_UClass_AVRMediaGameMode_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(AVRMediaGameMode)
 
 
-#define FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaGameMode_h_9_ENHANCED_CONSTRUCTORS \
+#define FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaGameMode_h_9_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AVRMediaGameMode(AVRMediaGameMode&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~AVRMediaGameMode();
 
 
-#define FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaGameMode_h_6_PROLOG
-#define FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaGameMode_h_9_GENERATED_BODY \
+#define FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaGameMode_h_6_PROLOG
+#define FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaGameMode_h_9_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaGameMode_h_9_INCLASS_NO_PURE_DECLS \
-	FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaGameMode_h_9_ENHANCED_CONSTRUCTORS \
+	FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaGameMode_h_9_INCLASS_NO_PURE_DECLS \
+	FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaGameMode_h_9_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> VIDEOTEST_API UClass* StaticClass<class AVRMediaGameMode>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaGameMode_h
+#define CURRENT_FILE_ID FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaGameMode_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

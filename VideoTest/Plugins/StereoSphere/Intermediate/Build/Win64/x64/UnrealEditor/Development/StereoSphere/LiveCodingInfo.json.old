@@ -2,11 +2,10 @@
 	"RemapUnityFiles": 
 	{
 		"Module.StereoSphere.cpp.obj": [
-			"StereoSphere.gen.cpp.obj",
 			"StereoSphere.init.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
+			"StereoBlend.cpp.obj",
 			"StereoSphere.cpp.obj",
-			"StereoSphereBlend.cpp.obj",
 			"StereoSphereModule.cpp.obj"
 		]
 	}

@@ -232,6 +232,7 @@ struct Z_Construct_UClass_AVRMediaSphere_Statics
 		{ "ModuleRelativePath", "VRMediaSphere.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_MediaPlayer_MetaData[] = {
+		{ "Category", "VRMedia|Media" },
 #if !UE_BUILD_SHIPPING
 		{ "Comment", "// Runtime-created UObjects (BeginPlay\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd NewObject)\n" },
 #endif
@@ -241,9 +242,11 @@ struct Z_Construct_UClass_AVRMediaSphere_Statics
 #endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_MediaTex_MetaData[] = {
+		{ "Category", "VRMedia|Media" },
 		{ "ModuleRelativePath", "VRMediaSphere.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_FileSource_MetaData[] = {
+		{ "Category", "VRMedia|Media" },
 		{ "ModuleRelativePath", "VRMediaSphere.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_FullSphereMesh_MetaData[] = {
@@ -315,9 +318,9 @@ struct Z_Construct_UClass_AVRMediaSphere_Statics
 };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVRMediaSphere_Statics::NewProp_SphereMesh = { "SphereMesh", nullptr, (EPropertyFlags)0x00200800000a0009, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AVRMediaSphere, SphereMesh), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_SphereMesh_MetaData), NewProp_SphereMesh_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVRMediaSphere_Statics::NewProp_MediaSound = { "MediaSound", nullptr, (EPropertyFlags)0x00200800000a0009, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AVRMediaSphere, MediaSound), Z_Construct_UClass_UMediaSoundComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MediaSound_MetaData), NewProp_MediaSound_MetaData) };
-const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVRMediaSphere_Statics::NewProp_MediaPlayer = { "MediaPlayer", nullptr, (EPropertyFlags)0x0020080000000000, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AVRMediaSphere, MediaPlayer), Z_Construct_UClass_UMediaPlayer_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MediaPlayer_MetaData), NewProp_MediaPlayer_MetaData) };
-const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVRMediaSphere_Statics::NewProp_MediaTex = { "MediaTex", nullptr, (EPropertyFlags)0x0020080000000000, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AVRMediaSphere, MediaTex), Z_Construct_UClass_UMediaTexture_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MediaTex_MetaData), NewProp_MediaTex_MetaData) };
-const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVRMediaSphere_Statics::NewProp_FileSource = { "FileSource", nullptr, (EPropertyFlags)0x0020080000000000, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AVRMediaSphere, FileSource), Z_Construct_UClass_UFileMediaSource_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_FileSource_MetaData), NewProp_FileSource_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVRMediaSphere_Statics::NewProp_MediaPlayer = { "MediaPlayer", nullptr, (EPropertyFlags)0x0020080000000005, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AVRMediaSphere, MediaPlayer), Z_Construct_UClass_UMediaPlayer_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MediaPlayer_MetaData), NewProp_MediaPlayer_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVRMediaSphere_Statics::NewProp_MediaTex = { "MediaTex", nullptr, (EPropertyFlags)0x0020080000000005, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AVRMediaSphere, MediaTex), Z_Construct_UClass_UMediaTexture_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MediaTex_MetaData), NewProp_MediaTex_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVRMediaSphere_Statics::NewProp_FileSource = { "FileSource", nullptr, (EPropertyFlags)0x0020080000000005, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AVRMediaSphere, FileSource), Z_Construct_UClass_UFileMediaSource_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_FileSource_MetaData), NewProp_FileSource_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVRMediaSphere_Statics::NewProp_FullSphereMesh = { "FullSphereMesh", nullptr, (EPropertyFlags)0x0020080000000001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AVRMediaSphere, FullSphereMesh), Z_Construct_UClass_UStaticMesh_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_FullSphereMesh_MetaData), NewProp_FullSphereMesh_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVRMediaSphere_Statics::NewProp_HalfSphereMesh = { "HalfSphereMesh", nullptr, (EPropertyFlags)0x0020080000000001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AVRMediaSphere, HalfSphereMesh), Z_Construct_UClass_UStaticMesh_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_HalfSphereMesh_MetaData), NewProp_HalfSphereMesh_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVRMediaSphere_Statics::NewProp_BaseEquirectMaterial = { "BaseEquirectMaterial", nullptr, (EPropertyFlags)0x0020080000000001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AVRMediaSphere, BaseEquirectMaterial), Z_Construct_UClass_UMaterialInterface_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_BaseEquirectMaterial_MetaData), NewProp_BaseEquirectMaterial_MetaData) };
@@ -383,18 +386,18 @@ AVRMediaSphere::~AVRMediaSphere() {}
 // End Class AVRMediaSphere
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaSphere_h_Statics
+struct Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaSphere_h_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ EVRStereoMode_StaticEnum, TEXT("EVRStereoMode"), &Z_Registration_Info_UEnum_EVRStereoMode, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1009778950U) },
 	};
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AVRMediaSphere, AVRMediaSphere::StaticClass, TEXT("AVRMediaSphere"), &Z_Registration_Info_UClass_AVRMediaSphere, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AVRMediaSphere), 837616399U) },
+		{ Z_Construct_UClass_AVRMediaSphere, AVRMediaSphere::StaticClass, TEXT("AVRMediaSphere"), &Z_Registration_Info_UClass_AVRMediaSphere, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AVRMediaSphere), 925319966U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaSphere_h_3326244611(TEXT("/Script/VideoTest"),
-	Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaSphere_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaSphere_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaSphere_h_1146047463(TEXT("/Script/VideoTest"),
+	Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaSphere_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaSphere_h_Statics::ClassInfo),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaSphere_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_Source_VideoTest_VRMediaSphere_h_Statics::EnumInfo));
+	Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaSphere_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealEngineProject_VideoTest_VR_VideoTest_Source_VideoTest_VRMediaSphere_h_Statics::EnumInfo));
 // End Registration
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
