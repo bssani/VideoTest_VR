@@ -1,0 +1,59 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.5",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VideoTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "PanoramicRenderPass",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/6b7134c9-551d-4ac1-8812-db1c128b2d73"
+		},
+		{
+			"Name": "PanoramicCapture",
+			"Enabled": true
+		},
+		{
+			"Name": "MoviePipelineMaskRenderPass",
+			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android"
+			]
+		}
+	]
+}

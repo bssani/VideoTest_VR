@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\unrealeditor\\inc\\videotest\\uht\\vrmediaplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\x64\\videotesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\videotest\\definitions.videotest.h",
+            "c:\\unrealengineproject\\videotest\\source\\videotest\\vrmediaplayercontroller.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmappingcontext.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedactionkeymapping.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedactionkeymapping.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmappingcontext.generated.h",
+            "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\unrealeditor\\inc\\videotest\\uht\\vrmediaplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

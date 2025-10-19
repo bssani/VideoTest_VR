@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengineproject\\videotest\\source\\videotest\\vrmediacmdlib.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\x64\\videotesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\videotest\\definitions.videotest.h",
+            "c:\\unrealengineproject\\videotest\\source\\videotest\\vrmediacmdlib.h",
+            "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\unrealeditor\\inc\\videotest\\uht\\vrmediacmdlib.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

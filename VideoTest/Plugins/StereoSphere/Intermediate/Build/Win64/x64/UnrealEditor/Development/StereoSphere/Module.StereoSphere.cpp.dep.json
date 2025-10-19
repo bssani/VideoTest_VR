@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengineproject\\videotest\\plugins\\stereosphere\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\stereosphere\\module.stereosphere.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengineproject\\videotest\\intermediate\\build\\win64\\x64\\videotesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\unrealengineproject\\videotest\\plugins\\stereosphere\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\stereosphere\\definitions.stereosphere.h",
+            "c:\\unrealengineproject\\videotest\\plugins\\stereosphere\\intermediate\\build\\win64\\unrealeditor\\inc\\stereosphere\\uht\\stereosphere.init.gen.cpp",
+            "c:\\unrealengineproject\\videotest\\plugins\\stereosphere\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\stereosphere\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

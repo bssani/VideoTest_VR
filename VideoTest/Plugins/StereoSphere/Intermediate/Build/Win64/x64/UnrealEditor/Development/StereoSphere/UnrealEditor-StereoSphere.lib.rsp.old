@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-StereoSphere.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealEngineProject\VideoTest\Intermediate\Build\Win64\x64\VideoTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\Module.StereoSphere.cpp.obj"
+"C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\StereoSphere.cpp.obj"
+"C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\StereoSphereBlend.cpp.obj"
+"C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\StereoSphereModule.cpp.obj"
+"C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\Default.rc2.res"
+/OUT:"C:\UnrealEngineProject\VideoTest\Plugins\StereoSphere\Intermediate\Build\Win64\x64\UnrealEditor\Development\StereoSphere\UnrealEditor-StereoSphere.lib"

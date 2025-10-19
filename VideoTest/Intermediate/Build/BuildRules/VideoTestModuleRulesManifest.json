@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealEngineProject\\VideoTest\\Source\\VideoTest\\VideoTest.Build.cs",
+		"C:\\UnrealEngineProject\\VideoTest\\Plugins\\StereoSphere\\Source\\StereoSphere\\StereoSphere.Build.cs",
+		"C:\\UnrealEngineProject\\VideoTest\\Source\\VideoTest.Target.cs",
+		"C:\\UnrealEngineProject\\VideoTest\\Source\\VideoTestEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

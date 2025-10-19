@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VideoTest",
+			"Path": "..\\Source\\VideoTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VideoTestEditor",
+			"Path": "..\\Source\\VideoTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

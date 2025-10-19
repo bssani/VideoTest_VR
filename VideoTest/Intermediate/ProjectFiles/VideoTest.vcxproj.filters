@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VideoTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VideoTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VideoTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\PanoramicRender">
+      <UniqueIdentifier>{94BB88D4-87E4-347A-BAC4-CD3EA4D0B79C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\PanoramicRender\Source">
+      <UniqueIdentifier>{75C70605-7C16-35A2-AD47-A3C171033DF6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\PanoramicRender\Source\PanoramicRenderPass">
+      <UniqueIdentifier>{E4D7DD06-B114-36D0-BD74-B8E6E46C6BC0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\PanoramicRender\Source\PanoramicRenderPass\PanoramicRenderPass.Build.cs">
+      <Filter>Plugins\PanoramicRender\Source\PanoramicRenderPass</Filter>
+    </None>
+    <Filter Include="Plugins\PanoramicRender\Source\PanoramicRenderPass\Private">
+      <UniqueIdentifier>{CC333D5B-9C5D-3DDF-AF54-00EF2FDB3662}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\PanoramicRender\Source\PanoramicRenderPass\Private\PanoramicBlender.cpp">
+      <Filter>Plugins\PanoramicRender\Source\PanoramicRenderPass\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\PanoramicRender\Source\PanoramicRenderPass\Private\PanoramicPass.cpp">
+      <Filter>Plugins\PanoramicRender\Source\PanoramicRenderPass\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\PanoramicRender\Source\PanoramicRenderPass\Private\PanoramicRenderPassModule.cpp">
+      <Filter>Plugins\PanoramicRender\Source\PanoramicRenderPass\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\PanoramicRender\Source\PanoramicRenderPass\Public">
+      <UniqueIdentifier>{72F1E01E-9049-32A1-956A-2C74DA675EC5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\PanoramicRender\Source\PanoramicRenderPass\Public\PanoramicBlender.h">
+      <Filter>Plugins\PanoramicRender\Source\PanoramicRenderPass\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\PanoramicRender\Source\PanoramicRenderPass\Public\PanoramicPass.h">
+      <Filter>Plugins\PanoramicRender\Source\PanoramicRenderPass\Public</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\PanoramicRender\PanoramicRenderPass.uplugin">
+      <Filter>Plugins\PanoramicRender</Filter>
+    </None>
+    <Filter Include="Plugins\PanoramicRender\Resources">
+      <UniqueIdentifier>{56ED1128-799F-37C2-B80D-A31DF0709EFB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\PanoramicRender\Resources\Icon128.png">
+      <Filter>Plugins\PanoramicRender\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\StereoSphere">
+      <UniqueIdentifier>{C01F498C-84DA-3E64-86DD-80A14D61756C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\StereoSphere\StereoSphere.uplugin">
+      <Filter>Plugins\StereoSphere</Filter>
+    </None>
+    <Filter Include="Plugins\StereoSphere\Resources">
+      <UniqueIdentifier>{A7C4D50F-105E-368F-979F-B5E017EB35AC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\StereoSphere\Resources\Icon128.png">
+      <Filter>Plugins\StereoSphere\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\StereoSphere\Source">
+      <UniqueIdentifier>{448F2C74-9658-3A96-BE38-7253648D5102}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\StereoSphere\Source\StereoSphere">
+      <UniqueIdentifier>{2160ADCD-ABAF-3D8B-85D0-E7E920484AD5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\StereoSphere\Source\StereoSphere\StereoSphere.Build.cs">
+      <Filter>Plugins\StereoSphere\Source\StereoSphere</Filter>
+    </None>
+    <Filter Include="Plugins\StereoSphere\Source\StereoSphere\Private">
+      <UniqueIdentifier>{01FFE249-2FE7-3260-B069-01A802028A21}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\StereoSphere\Source\StereoSphere\Private\StereoBlend.cpp">
+      <Filter>Plugins\StereoSphere\Source\StereoSphere\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\StereoSphere\Source\StereoSphere\Private\StereoSphere.cpp">
+      <Filter>Plugins\StereoSphere\Source\StereoSphere\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\StereoSphere\Source\StereoSphere\Private\StereoSphereModule.cpp">
+      <Filter>Plugins\StereoSphere\Source\StereoSphere\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\StereoSphere\Source\StereoSphere\Public">
+      <UniqueIdentifier>{AC3303D2-8022-313C-A709-3156BFB20D86}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\StereoSphere\Source\StereoSphere\Public\StereoBlend.h">
+      <Filter>Plugins\StereoSphere\Source\StereoSphere\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\StereoSphere\Source\StereoSphere\Public\StereoSphere.h">
+      <Filter>Plugins\StereoSphere\Source\StereoSphere\Public</Filter>
+    </ClCompile>
+    <Filter Include="Source\VideoTest">
+      <UniqueIdentifier>{26254526-CFB9-3595-8FE8-74602D1DBF41}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VideoTest\VideoTest.Build.cs">
+      <Filter>Source\VideoTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VideoTest\VideoTest.cpp">
+      <Filter>Source\VideoTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VideoTest\VideoTest.h">
+      <Filter>Source\VideoTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VideoTest\VRMediaCmdLib.cpp">
+      <Filter>Source\VideoTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VideoTest\VRMediaCmdLib.h">
+      <Filter>Source\VideoTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VideoTest\VRMediaGameMode.cpp">
+      <Filter>Source\VideoTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VideoTest\VRMediaGameMode.h">
+      <Filter>Source\VideoTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VideoTest\VRMediaPlayerController.cpp">
+      <Filter>Source\VideoTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VideoTest\VRMediaPlayerController.h">
+      <Filter>Source\VideoTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VideoTest\VRMediaSphere.cpp">
+      <Filter>Source\VideoTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\VideoTest\VRMediaSphere.h">
+      <Filter>Source\VideoTest</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
